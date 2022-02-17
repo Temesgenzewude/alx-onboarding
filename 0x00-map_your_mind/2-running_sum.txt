@@ -1,0 +1,7 @@
+function addPositiveOnly():
+ 	let the sum=0
+	ask the user for number
+	while the number is greater than or equal to 0:
+		perform sum=sum+number
+		if the number is less than 0:
+		return the sum
