@@ -1,0 +1,5 @@
+function sumSquares(list of numbers):
+	set the sum to 0
+	for each number in the list of numbers:
+		increase sum by the square of the number
+	return the sum of the square of the numbers
